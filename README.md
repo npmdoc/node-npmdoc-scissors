@@ -1,6 +1,6 @@
 # npmdoc-scissors
 
-#### api documentation for  [scissors (v0.1.0)](https://github.com/tcr/scissors#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-scissors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-scissors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-scissors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-scissors)
+#### basic api documentation for  [scissors (v0.1.0)](https://github.com/tcr/scissors#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-scissors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-scissors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-scissors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-scissors)
 
 #### PDF manipulation in Node.js! Split, join, crop, read, extract, boil, mash, stick them in a stew.
 
@@ -63,7 +63,8 @@
         "type": "git",
         "url": "git+https://github.com/tcr/scissors.git"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 

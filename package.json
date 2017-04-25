@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "scissors",
-    "description": "#### api documentation for  [scissors (v0.1.0)](https://github.com/tcr/scissors#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-scissors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-scissors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-scissors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-scissors)",
+    "description": "#### basic api documentation for  [scissors (v0.1.0)](https://github.com/tcr/scissors#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-scissors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-scissors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-scissors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-scissors)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "scissors": "*",
